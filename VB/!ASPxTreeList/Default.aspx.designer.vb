@@ -40,7 +40,7 @@ Namespace _ASPxTreeList
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected Exporter As Global.DevExpress.Web.ASPxTreeList.Export.ASPxTreeListExporter
+		Protected Exporter As Global.DevExpress.Web.ASPxTreeList.ASPxTreeListExporter
 
 		''' <summary>
 		''' Button control.
@@ -49,7 +49,7 @@ Namespace _ASPxTreeList
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected Button As Global.DevExpress.Web.ASPxEditors.ASPxButton
+		Protected Button As Global.DevExpress.Web.ASPxButton
 
 		''' <summary>
 		''' DataSource control.

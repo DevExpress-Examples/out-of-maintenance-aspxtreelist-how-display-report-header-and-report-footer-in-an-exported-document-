@@ -37,7 +37,7 @@ namespace _ASPxTreeList {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxTreeList.Export.ASPxTreeListExporter Exporter;
+        protected global::DevExpress.Web.ASPxTreeList.ASPxTreeListExporter Exporter;
         
         /// <summary>
         /// Button control.
@@ -46,7 +46,7 @@ namespace _ASPxTreeList {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxButton Button;
+        protected global::DevExpress.Web.ASPxButton Button;
         
         /// <summary>
         /// DataSource control.
